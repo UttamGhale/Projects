@@ -1,2 +1,2 @@
 # Project
-view my projects
+Use it to generate secure random password 
